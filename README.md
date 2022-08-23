@@ -45,3 +45,4 @@ You can preview the production build with `npm run preview`.
 - [Meet Skeleton: Svelte + Tailwind For Reactive UIs](https://www.smashingmagazine.com/2022/08/skeleton-svelte-tailwind-reactive-uis/)
 - [Skeleton UI Component Library for Svelte](https://skeleton.brainandbonesllc.com/)
 - [Vite](https://vitejs.dev/guide/ssr.html)
+- [Strapi & Svelte](https://strapi.io/blog/how-to-create-a-blog-with-svelte-kit-strapi)
