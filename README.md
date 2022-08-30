@@ -37,6 +37,11 @@ You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
 
+## TODO
+
+- [Strapi & Svelte & Tailwind CSS](https://strapi.io/blog/build-a-to-do-app-with-svelte-strapi-tailwind-css)
+- [Strapi & Svelte tutorial](https://github.com/Quadrisheriff/Svelte-strapi-tutorial)
+
 ## Resources
 
 - [Stackblitz](https://stackblitz.com/edit/sveltejs-kit-template-default-oexfpg)
@@ -46,3 +51,7 @@ You can preview the production build with `npm run preview`.
 - [Skeleton UI Component Library for Svelte](https://skeleton.brainandbonesllc.com/)
 - [Vite](https://vitejs.dev/guide/ssr.html)
 - [Strapi & Svelte](https://strapi.io/blog/how-to-create-a-blog-with-svelte-kit-strapi)
+
+## Alternative architecture
+
+- [Appwrite](https://github.com/appwrite/appwrite)
