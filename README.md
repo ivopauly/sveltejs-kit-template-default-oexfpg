@@ -52,6 +52,11 @@ You can preview the production build with `npm run preview`.
 - [Vite](https://vitejs.dev/guide/ssr.html)
 - [Strapi & Svelte](https://strapi.io/blog/how-to-create-a-blog-with-svelte-kit-strapi)
 
-## Alternative architecture
+## Architecture
 
 - [Appwrite](https://github.com/appwrite/appwrite)
+- [Supabase](https://github.com/supabase/supabase)
+- [Strapi](https://github.com/strapi/strapi)
+- [Coolify (self-hosting)](https://github.com/coollabsio/coolify)
+- [Prisma](https://github.com/prisma/prisma)
+- [Plausible analytics](https://github.com/plausible/analytics)
